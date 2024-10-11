@@ -3,7 +3,13 @@ body {
     background-size: cover;
     }
 
+    #planets {
+      margin: auto;
+      width: 500px;
+    }
+
     th{
+      font-weight: 200;
       padding-bottom: 9px;
       padding-top: 9px;
     }
