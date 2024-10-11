@@ -29,5 +29,6 @@ body {
     }
 
     table#planets {
-      width: 70%;
+      width: 500px;
+      margin: auto;
     }
