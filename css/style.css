@@ -3,7 +3,7 @@ body {
     background-size: cover;
     }
 
-    .planets {
+    #planets {
       margin-top: 30px;
       margin-bottom: 30px;
 			}
@@ -35,12 +35,12 @@ body {
     }
 
   
-.section1 {
+#section1 {
   position: relative
   padding-top: 20px;
   padding-bottom: 20px;
 }
-.section2 {
+#section2 {
   position: relative
   left: 10px;
   top: 10px;
