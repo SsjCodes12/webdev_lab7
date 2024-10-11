@@ -1,28 +1,20 @@
-td, th {
-	border: 1px solid;
-  border-color: #99ccff;
-  }
-  
-  body {
+body {
     background-image: url("../images/stars.jpg");
     background-size: cover;
     }
 
     th{
-      margin-left: 50px;
-      margin-right: 50px;
       padding-bottom: 9px;
       padding-top: 9px;
-      padding-left: 9px;
-      padding-right: 9px;
     }
 
    
   td {
-  margin-left: 50px;
-  margin-right: 50px;
   padding-top: 10px;
   padding-bottom: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
   }
+
+  td, th {
+    border: 1px solid;
+    border-color: #99ccff;
+    }
