@@ -9,7 +9,8 @@ td, th {
     }
 
     th{
-      margin: 0px;
+      margin-left: 50px;
+      margin-right: 50px;
       padding-bottom: 9px;
       padding-top: 9px;
       padding-left: 9px;
@@ -18,7 +19,8 @@ td, th {
 
    
   td {
-  margin: 0px;
+  margin-left: 50px;
+  margin-right: 50px;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 10px;
