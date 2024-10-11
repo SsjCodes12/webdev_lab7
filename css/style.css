@@ -28,7 +28,12 @@ body {
       text-align: center;
     }
 
-    table#planets {
-      width: 500px;
-      margin: auto;
-    }
+  
+#section1 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#section2 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
