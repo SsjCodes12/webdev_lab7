@@ -3,54 +3,20 @@ body {
     background-size: cover;
     }
 		
-		#boxsection {
-			position: relative;
-			bottom: 9px;
-			font-size: .5em;
-		}
-
-    #planets {
-      margin: 0 auto;
-			}
-
-    th {
-      font-weight: 200;
-      padding-bottom: 9px;
-      padding-top: 9px;
-    }
-
-   
-  td {
-  padding-top: 10px;
-  padding-bottom: 10px;
-  }
-
-  td, th {
-    border: 1px solid;
-    border-color: #99ccff;
-    }
-
-    h1 {
-      font-family: Arial, Helvetica, sans-serif;
-      font-weight: 200;
-      font-style: normal;
-      font-size: 2em;
-      color: #99ccff;
-      text-align: center;
-    }
-
-  
-#section1 {
-  position: relative;
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
-#section2 {
-  position: relative;
-  left: 10px;
-  top: 10px;
-  right: 10px;
-  bottom: 10px;
+td, th {
+  border: 2px aqua;
 }
 
-/* End of CSS Document
+.planets {
+  margin: 0 auto;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  margin-left: auto;
+  background-color: blue;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 55px;
+}
