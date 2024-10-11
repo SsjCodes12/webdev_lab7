@@ -28,6 +28,6 @@ body {
       text-align: center;
     }
 
-    #planets {
+    table#planets {
       width: 70%;
     }
