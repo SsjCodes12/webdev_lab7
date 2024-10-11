@@ -2,6 +2,12 @@ body {
     background-image: url("../images/stars.jpg");
     background-size: cover;
     }
+		
+		#boxsection {
+			position: relative;
+			bottom: 9px;
+			font-size: .5em;
+		}
 
     #planets {
       margin-top: 30px;
