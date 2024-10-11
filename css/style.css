@@ -7,3 +7,9 @@ td, th {
     background-image: url("../images/stars.jpg");
     background-size: cover;
     }
+
+   
+  td {
+  padding-top: 200px;
+  padding-bottom: 200px;
+  }
