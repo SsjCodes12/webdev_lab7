@@ -27,16 +27,12 @@ h1 {
 
 th {
   font-weight: 500;
-  padding-top: 0px;
-  padding-bottom: 0px;
   font-size: 2em;
   color: aqua;
   background-color: black;
 }
 
 td {
-padding-top: auto;
-padding-bottom: auto;
 text-align:center
 }
 
