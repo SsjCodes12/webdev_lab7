@@ -1,4 +1,7 @@
 td, th {
-	border: 1px solid;
+	border: 3px solid;
   }
   
+  { body
+    background-image: url(images/stars.jpg)
+    }
