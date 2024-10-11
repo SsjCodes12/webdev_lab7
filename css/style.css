@@ -8,6 +8,7 @@ td, th {
   border: 2px solid;
   border-color: aqua;
   background-color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .planets {
@@ -30,8 +31,7 @@ th {
   font-size: 2em;
   color: aqua;
   background-color: black;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+  }
 
 td {
 text-align:center
