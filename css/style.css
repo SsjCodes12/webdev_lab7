@@ -7,7 +7,7 @@ body {
 td, th {
   border: 2px solid;
   border-color: aqua;
-  background-color: black;
+  background-image: url("../images/orange.jpg")
   padding-left: 5px;
   padding-top: 12px;
 }
