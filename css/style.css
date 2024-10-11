@@ -4,7 +4,8 @@ body {
     }
 		
 td, th {
-  border: 2px aqua;
+  border: 2px solid;
+  border-color: aqua;
 }
 
 .planets {
