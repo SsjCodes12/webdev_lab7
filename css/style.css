@@ -9,6 +9,7 @@ td, th {
   border-color: aqua;
   background-color: black;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 300px;
 }
 
 .planets {
