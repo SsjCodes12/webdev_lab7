@@ -10,6 +10,8 @@ td, th {
   background-color: black;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   width: 300px;
+  height:auto;
+  text-align: center;
 }
 
 .planets {
