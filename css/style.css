@@ -14,8 +14,6 @@ td, th {
 .planets {
   margin: 0 auto;
   color: aqua;
-  margin-left: 20px;
-  padding-left: 30px;
 }
 
 h1 {
@@ -36,6 +34,7 @@ th {
 
 td {
 text-align:center
+padding: 30px;
 }
 
 img {
