@@ -9,8 +9,8 @@ td, th {
   border-color: aqua;
   background-color: black;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  float: left 50px;
-  float: right 50px;
+ border-right-width: 20px;
+ border-left-width: 20px;
   height:auto;
 }
 
