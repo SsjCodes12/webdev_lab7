@@ -1,8 +1,8 @@
-body {
-    background-image: url("../images/stars.jpg");
-    background-size: cover;
-    color: aqua;
-    }
+body  {
+  background-image: url("../images/stars.jpg");
+  background-size: cover;
+  color: aqua;
+}
 		
 td, th {
   border: 2px solid;
